@@ -2,6 +2,8 @@
 
 ## 目录
 
+* [计算机二级](ncre)
+
 ## 简介
 
 我的人格类型是 [**INTP**](https://t.me/KumaSpace/820),
